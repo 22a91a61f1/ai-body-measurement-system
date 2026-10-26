@@ -1,0 +1,6 @@
+{
+  "name": "AI Body Measurement System",
+  "description": "Enterprise AI body measurement and sizing analysis for men with live camera pose detection, 3D body landmark visualization, and sizing history.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
